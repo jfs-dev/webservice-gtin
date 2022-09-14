@@ -8,7 +8,7 @@ Consumir WebService SEFAZ RS usando HttpClient em C#
 Este projeto mostra como consumir o WebService da SEFAZ RS para consulta de GTIN (https://dfe-portal.svrs.rs.gov.br/Nfe/gtin) usando HttpClient em C# com certificado digital.
 
 ## Referências
-https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.httpclient?view=net-6.0
+https://docs.microsoft.com/pt-br/dotnet/api/system.net.http.httpclient?view=net-6.0/
 
 ## Licença
 GPL-3.0 license
